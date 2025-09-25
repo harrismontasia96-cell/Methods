@@ -20,6 +20,7 @@ public class hello {
     public static void SayGoodMorning() {
         System.out.println("say Good Morning");
 
+
     }
 
 }
